@@ -1,4 +1,4 @@
-I’m Arjun,currently a 3rd year BE student at CMRIT(https://www.cmrit.ac.in/)
+I’m Arjun,currently a 3rd year BE student at [CMRIT](https://www.cmrit.ac.in/)
 - 👀 I’m interested in Android devlopment and web development
 - 🌱 I’m currently working on Android Development
 - 💞️ I’m looking to collaborate on ...
